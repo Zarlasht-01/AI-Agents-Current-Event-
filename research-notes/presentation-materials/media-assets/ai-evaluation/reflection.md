@@ -41,3 +41,12 @@ To be completed.
 ### B4. Overall Reflection
 
 To be completed.
+B4. Overall Reflection
+
+Using AI changed the way our group worked because it helped us brainstorm ideas, organize information, and improve our presentation.
+
+However, we learned that AI can make mistakes and that important information needs to be checked against reliable sources.
+
+If we completed a similar project again, we would still use AI, but we would use it more carefully and verify important claims before including them.
+
+The most important thing we learned is that AI can be a powerful tool, but the person using it is still responsible for checking the information and making the final decisions.
