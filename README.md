@@ -28,7 +28,7 @@ The project also examines the growing importance of AI agents and considers how 
 
 **Topic:** AI Agents: The Next Step in Artificial Intelligence
 
-**Video:** [Watch the YouTube Presentation](https://www.youtube.com/watch?v=IjyOdbhgW8k)
+**Video:** [Watch the YouTube Presentation](youtube.com/watch?v=Ijy0dbhgW8k&feature=youtu.be)
 
 **Video Length:** 3:00
 
