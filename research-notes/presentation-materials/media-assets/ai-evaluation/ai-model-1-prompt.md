@@ -85,4 +85,4 @@ Be fair and constructive. Do not give the project a high grade simply because we
 
 ## AI Model 1 Response
 
-**The complete response from AI Model 1 should be pasted below this line after the evaluation is completed.**
+The complete response from AI Model 1 will be added below this line after the evaluation is completed.
