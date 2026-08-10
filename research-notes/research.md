@@ -25,7 +25,7 @@ AI agents can be designed to:
 
 ### Key Point
 
-The major difference is the ability to perform multi-step workflows and take actions.
+The major difference is the ability to perform multi-step workflows and take actions toward completing a goal.
 
 ---
 
@@ -56,6 +56,8 @@ Potential benefits include:
 * Handling complex workflows
 * Helping users organize information
 
+AI agents may allow people to delegate certain tasks while still providing direction and oversight.
+
 ---
 
 ## 5. Risks
@@ -70,6 +72,8 @@ Important concerns include:
 * Excessive autonomy
 * Need for human oversight
 
+Because AI agents may be able to use tools and take actions, mistakes can sometimes have greater consequences than a simple incorrect chatbot response.
+
 ---
 
 ## 6. Social Impact
@@ -78,19 +82,28 @@ AI agents could change how people work by automating some tasks and changing the
 
 However, AI agents should be viewed as tools that require appropriate human oversight rather than systems that should automatically make every important decision.
 
+AI agents also raise questions about privacy, security, accountability, employment, and how much decision-making should be delegated to artificial intelligence.
+
 ---
 
 ## 7. Recent Current Event
 
-**Event:** [Insert your verified recent AI-agent event]
+**Event:** Anthropic introduced Claude Sonnet 5, a new AI model with stronger agentic capabilities.
 
-**Date:** [Insert date]
+**Date:** June 30, 2026
 
 **What happened:**
-[Explain the event in 2–4 sentences.]
+
+Anthropic introduced Claude Sonnet 5 and described it as its most agentic Sonnet model yet. According to Anthropic, the model can make plans, use tools such as browsers and terminals, and work more autonomously on complex tasks. The company also highlighted improvements in reasoning, tool use, coding, and professional knowledge work.
 
 **Why it matters:**
-[Explain how this event shows that AI agents are becoming important.]
+
+This development shows how AI is moving beyond simply answering questions toward systems that can plan, use tools, and complete more complex tasks. This connects directly to the AI-agent concepts discussed in our project. As AI systems become more capable of taking actions, human oversight, privacy, security, and clear limits remain important.
 
 **Source:**
+
+Anthropic, "Introducing Claude Sonnet 5," June 30, 2026.
+
+https://www.anthropic.com/news/claude-sonnet-5
+*
 [Insert URL]
