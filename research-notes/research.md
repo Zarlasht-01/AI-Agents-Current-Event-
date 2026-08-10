@@ -105,5 +105,3 @@ This development shows how AI is moving beyond simply answering questions toward
 Anthropic, "Introducing Claude Sonnet 5," June 30, 2026.
 
 https://www.anthropic.com/news/claude-sonnet-5
-*
-[Insert URL]
