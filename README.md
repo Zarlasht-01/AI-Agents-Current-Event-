@@ -28,7 +28,7 @@ The project also examines the growing importance of AI agents and considers how 
 
 **Topic:** AI Agents: The Next Step in Artificial Intelligence
 
-**Video:** [Watch the YouTube Presentation](youtube.com/watch?v=Ijy0dbhgW8k&feature=youtu.be)
+**YouTube Video:** [Watch the YouTube Presentation](https://www.youtube.com/watch?v=Ijy0dbhgW8k)
 
 **Video Length:** 3:00
 
@@ -49,7 +49,9 @@ This question encourages discussion about the balance between the usefulness of 
 
 ## AI Evaluation
 
-The completed project was evaluated using two different AI models. Each evaluation includes the prompt provided to the model, the grading rubric used for the evaluation, and the model's response.
+The completed project was evaluated using two different AI models.
+
+Each evaluation includes the prompt provided to the model, the grading rubric used for the evaluation, and the model's response.
 
 The AI evaluations are included in the repository so that the evaluation process can be reviewed and compared.
 
