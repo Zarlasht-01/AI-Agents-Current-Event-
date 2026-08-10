@@ -188,4 +188,149 @@ The goal is to give us an accurate instructor-style evaluation so we can underst
 
 # Complete AI Model 1 Response
 
-PASTE THE ENTIRE RESPONSE FROM AI MODEL 1 HERE
+## AI Model 1 Response
+
+I reviewed the public GitHub repository and attempted to review the public YouTube presentation. The YouTube page itself was not accessible to my browser, so I will not assume anything about the video's actual content, speaking participation, or presentation quality beyond what can be independently verified from the repository. That matters because your rubric explicitly says not to award unverifiable points.
+
+# Final Grade
+
+| Category | Score |
+|---|---:|
+| 1. Content & Presentation | 18/25 |
+| 2. GitHub Collaboration | 8/25 |
+| 3. AI Evaluation Setup | 3/25 |
+| 4. Reflection Quality | 0/25 |
+| **Total** | **29/100** |
+| **Suggested Letter Grade** | **F** |
+
+## 1. Content & Presentation — 18/25
+
+The topic is appropriate and relevant. The project focuses on AI agents and their movement from simply generating answers toward completing multi-step tasks.
+
+The project also discusses important societal implications, including workplace applications, programming and research, education, privacy, security, human oversight, and unintended actions.
+
+The repository provides a strong discussion question:
+
+"How much control should we give AI agents to make decisions and take actions on our behalf?"
+
+The README states that the presentation is 3:00, which is within the required 2:30–3:00 range.
+
+There is also evidence that the group used recent information, including a 2026 source about AI agents.
+
+However, I could not independently access the YouTube video. Therefore, I could not verify:
+
+- whether the presentation explains the topic clearly;
+- whether the video is actually within the required time;
+- whether all team members participate;
+- whether the video is well organized;
+- whether the video explains societal impact;
+- whether the discussion question appears at the end.
+
+Because these requirements could not be verified, I would not award full points.
+
+**Score: 18/25**
+
+## 2. GitHub Collaboration — 8/25
+
+The repository is reasonably organized and contains research notes, presentation materials, sources, AI evaluation materials, and reflection materials.
+
+The README also contains the project title, team members, project summary, YouTube link, and discussion question.
+
+However, the actual GitHub collaboration evidence was weak at the time of this evaluation.
+
+The commit history did not clearly demonstrate meaningful contributions from all team members.
+
+There was also limited evidence of meaningful use of:
+
+- Issues
+- branches
+- pull requests
+- GitHub Discussions
+
+The repository therefore appeared more like a collection of project files than a clearly documented collaborative GitHub project.
+
+**Score: 8/25**
+
+## 3. AI Evaluation Setup — 3/25
+
+The README says that the completed project was evaluated using two different AI models.
+
+However, I could not verify the required completed AI evaluation materials in the repository.
+
+The assignment requires:
+
+- two different AI models;
+- complete prompts;
+- the complete grading rubric in the prompts;
+- complete AI responses;
+- thoughtful prompts.
+
+The public repository did not clearly show the completed Model 1 and Model 2 responses.
+
+A README statement saying that these materials exist is not enough evidence under the grading instructions.
+
+**Score: 3/25**
+
+## 4. Reflection Quality — 0/25
+
+The reflection was incomplete.
+
+The reflection document contained sections such as:
+
+- AI Model 1 Summary
+- AI Model 2 Summary
+- Comparison
+- Agreement or disagreement
+- What would you do differently?
+- How AI was used
+- What worked well
+- What did not work well
+- Overall reflection
+
+However, these sections were not actually completed.
+
+The document still contained statements such as "To be completed."
+
+Because the required reflection was not completed, I cannot award points for this category.
+
+**Score: 0/25**
+
+# Strengths
+
+1. The topic of AI agents is relevant and appropriate for a basic computer science course.
+
+2. The project connects AI agents to real-world issues such as work, privacy, security, and human oversight.
+
+3. The project includes a thoughtful discussion question about how much control humans should give AI agents.
+
+4. The project includes recent research material.
+
+5. The repository has a basic organizational structure.
+
+# Weaknesses
+
+1. GitHub collaboration was not clearly demonstrated through commits, Issues, branches, pull requests, and Discussions.
+
+2. The completed AI evaluation files were not clearly available.
+
+3. The reflection was incomplete.
+
+4. The YouTube presentation could not be independently verified.
+
+5. The project needs stronger evidence that both group members contributed to the GitHub repository.
+
+# Overall Instructor Comment
+
+The project demonstrates a good choice of topic and a reasonable understanding of AI agents, particularly their ability to perform multi-step tasks and the associated concerns around autonomy, privacy, security, and human oversight.
+
+The repository is reasonably organized and contains current research material.
+
+However, several important assignment requirements were incomplete or could not be verified. In particular, the GitHub history did not clearly demonstrate meaningful participation from all team members, the required AI evaluation responses were not clearly present, and the reflection remained incomplete.
+
+Because these components represent a significant portion of the rubric, they substantially reduce the final grade.
+
+The project has a solid foundation, but the missing evidence and unfinished deliverables prevent it from receiving a passing grade under a strict application of the rubric.
+
+# Final Grade
+
+**29/100 — F**
